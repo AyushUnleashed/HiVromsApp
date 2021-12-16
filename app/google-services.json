@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961197940603",
+    "project_id": "hivroms",
+    "storage_bucket": "hivroms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961197940603:android:946c12ce3fbab3e3a567de",
+        "android_client_info": {
+          "package_name": "com.example.hivroms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961197940603-p1ms0fbipjn9fv7o3td7m52kun2lbcfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBycUtxz88d5sA4-gNVODYUbaCAvJuGccg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961197940603-p1ms0fbipjn9fv7o3td7m52kun2lbcfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
