@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hivroms">
+    package="com.ayushunleashed.hivroms">
 
     <application
         android:allowBackup="true"
@@ -10,16 +10,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HiVroms">
-        <activity android:name=".CreatePostActivity"
-            android:parentActivityName="com.example.hivroms.MainActivity">
+        <activity android:name="com.ayushunleashed.hivroms.CreatePostActivity"
+            android:parentActivityName="com.ayushunleashed.hivroms.MainActivity">
 
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.hivroms.MainActivity" />
+                android:value="com.ayushunleashed.hivroms.MainActivity" />
 
         </activity>
         <activity
-            android:name=".SignInActivity"
+            android:name="com.ayushunleashed.hivroms.SignInActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,7 +27,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.ayushunleashed.hivroms.MainActivity">
 
         </activity>
     </application>

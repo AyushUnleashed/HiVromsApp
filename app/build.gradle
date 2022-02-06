@@ -11,7 +11,7 @@ android {
     buildToolsVersion "31.0.0"
 
     defaultConfig {
-        applicationId "com.example.hivroms"
+        applicationId "com.ayushunleashed.hivroms"
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 1
